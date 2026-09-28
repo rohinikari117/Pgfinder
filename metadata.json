@@ -1,0 +1,6 @@
+{
+  "name": "CampusNest - PG & Student Room Finder",
+  "description": "Verified PG, hostel, and student room finder with college-proximity search, food menus, verified amenities, direct owner contacts, and owner listing plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
